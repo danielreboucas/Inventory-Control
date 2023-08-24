@@ -7,31 +7,31 @@
       <router-link to="/dashboard" class="button">
         <div class="menu-item">
           <span><i class="bi bi-speedometer2"></i></span>
-          <div class="menu-item-text">Painel de controle</div>
+          <div class="menu-item-text">Dashboard</div>
         </div>
       </router-link>
       <router-link to="/category" class="button">
         <div class="menu-item">
           <span><i class="bi bi-list-task"></i></span>
-          <div class="menu-item-text">Categoria</div>
+          <div class="menu-item-text">Category</div>
         </div>
       </router-link>
       <router-link to="/product" class="button">
         <div class="menu-item">
           <span><i class="bi bi-boxes"></i></span>
-          <div class="menu-item-text">Produto</div>
+          <div class="menu-item-text">Products</div>
         </div>
       </router-link>
       <router-link to="/client" class="button">
         <div class="menu-item">
           <span><i class="bi bi-people-fill"></i></span>
-          <div class="menu-item-text">Cliente</div>
+          <div class="menu-item-text">Client</div>
         </div>
       </router-link>
       <router-link to="/supplier" class="button">
         <div class="menu-item">
           <span><i class="bi bi-car-front-fill"></i></span>
-          <div class="menu-item-text">Fornecedor</div>
+          <div class="menu-item-text">Supplier</div>
         </div>
       </router-link>
     </div>
@@ -42,7 +42,7 @@
       <router-link to="/settings" class="button">
         <div class="menu-item">
           <span><i class="bi bi-gear-fill"></i></span>
-          <div class="menu-item-text">Configurações</div>
+          <div class="menu-item-text">Settings</div>
         </div>
       </router-link>
     </div>

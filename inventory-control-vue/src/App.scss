@@ -1,0 +1,26 @@
+.view-container.collapsed {
+  padding-left: 50px;
+  transition: 300ms;
+}
+
+.view-container.expanded {
+  padding-left: 250px;
+  transition: 300ms;
+}
+
+.p-tooltip-text {
+  font-size: 10px !important;
+}
+
+#side-bar {
+  overflow: hidden;
+  transition: 300ms;
+}
+
+.side-bar-visible {
+  width: 250px !important;
+}
+
+.side-bar-close {
+  width: 50px !important;
+}

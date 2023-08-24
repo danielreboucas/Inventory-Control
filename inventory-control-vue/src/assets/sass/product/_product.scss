@@ -1,0 +1,22 @@
+.products-container {
+  padding: 32px;
+}
+
+.add-product-container,
+.edit-product-container {
+  display: flex;
+  margin-top: 16px;
+  flex-direction: column;
+  max-width: 400px;
+  gap: 10px;
+
+  .buttons-container {
+    display: flex;
+
+    .p-button {
+      display: flex;
+      margin-right: 8px;
+      justify-content: center;
+    }
+  }
+}
